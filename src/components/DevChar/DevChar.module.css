@@ -52,10 +52,9 @@
 
 .imgEdit {
   width: 50%;
-  border-radius: 10%; 
   z-index: 1;
 
-  animation-name: float;
+  animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
@@ -89,11 +88,11 @@
 
 .bottomBlur {
   position: absolute;
-  width: 50vw;
+  width: 70vw;
   height: 50vw;
   min-width: 350px;
   min-height: 250px;
-  top: -128px;
+  top: 246px;
   right: -25vw;
   border-radius: 764px;
   background: rgba(25, 55, 109, 0.7);

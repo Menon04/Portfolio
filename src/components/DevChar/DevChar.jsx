@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./DevChar.module.css";
 import { getImageUrl } from "../../utils";
 
-export const DevChar = () => {
+const DevChar = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
@@ -12,7 +12,7 @@ export const DevChar = () => {
         </p>
         <a href="mailto:lucasguilarduccimenon@gmail.com" className={styles.contactBtn}>Entre em contato</a>
       </div>
-      <img className={styles.imgEdit}src={getImageUrl("myPics/pfp2.jpeg")}/>
+      <img className={styles.imgEdit}src={getImageUrl("myPics/pfp01.png")}/>
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
     </section>
