@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/HTML5.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/CSS3.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "CSharp",
+    "imageSrc": "skills/CSharp.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/React.png"
+  },
+  {
+    "title": "Go",
+    "imageSrc": "skills/Go.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/Node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/MongoDB.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/Docker.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/Git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/GitHub.png"
+  },
+  {
+    "title" : "GitLab",
+    "imageSrc" : "skills/GitLab.png"
+  }
+]
