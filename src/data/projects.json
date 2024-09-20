@@ -1,0 +1,26 @@
+[
+  {
+    "tittle": "Project 1",
+    "imageSrc" : "projects/project.png",
+    "description": "This is a project description",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.google.com",
+    "source": "https://www.google.com"
+  },
+  {
+    "tittle": "Project 1",
+    "imageSrc" : "projects/project.png",
+    "description": "This is a project description",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.google.com",
+    "source": "https://www.google.com"
+  },
+  {
+    "tittle": "Project 1",
+    "imageSrc" : "projects/project.png",
+    "description": "This is a project description",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.google.com",
+    "source": "https://www.google.com"
+  }
+]
