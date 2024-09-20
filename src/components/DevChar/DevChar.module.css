@@ -87,7 +87,7 @@
 }
 
 .bottomBlur {
-  position: absolute;
+  position: absolute; /* Alterado para absolute para garantir que o posicionamento seja relativo ao pai */
   width: 70vw;
   height: 50vw;
   min-width: 350px;
@@ -98,6 +98,8 @@
   background: rgba(25, 55, 109, 0.7);
   filter: blur(100px);
   z-index: 0;
+  max-width: 100%; /* Garante que o elemento não ultrapasse a largura do pai */
+  max-height: 100%; /* Garante que o elemento não ultrapasse a altura do pai */
 }
 
 @media screen and (max-width: 830px) {

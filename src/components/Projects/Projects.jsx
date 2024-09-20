@@ -15,6 +15,7 @@ const Projects = () => {
         effect={"cards"}
         grabCursor={true}
         modules={[EffectCards]}
+        cardsEffect={{slideShadows: false}}
         className={styles.mySwiper}
       >
         {projects.map((project, id) => (

@@ -14,7 +14,6 @@ const DevChar = () => {
       </div>
       <img className={styles.imgEdit}src={getImageUrl("myPics/pfp01.png")}/>
         <div className={styles.topBlur} />
-        <div className={styles.bottomBlur} />
     </section>
   );
 };
