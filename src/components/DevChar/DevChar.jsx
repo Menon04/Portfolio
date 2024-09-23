@@ -10,7 +10,7 @@ const DevChar = () => {
         <p className={styles.description}>
         Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Vianna Júnior, com foco em desenvolvimento fullstack. Confira meu portifólio para saber mais sobre meus conhecimentos, projetos pessoais e experiências profissionais!
         </p>
-        <a href="mailto:lucasguilarduccimenon@gmail.com" className={styles.contactBtn}>Entre em contato</a>
+        <a href="mailto:lucasguilarduccimenon@gmail.com" className={styles.contactBtn}>Currículo</a>
       </div>
       <img className={styles.imgEdit}src={getImageUrl("myPics/pfp01.png")}/>
         <div className={styles.topBlur} />

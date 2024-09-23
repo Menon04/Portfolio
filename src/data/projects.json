@@ -1,26 +1,26 @@
 [
   {
-    "tittle": "Project 1",
-    "imageSrc" : "projects/project.png",
-    "description": "This is a project description",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.google.com",
-    "source": "https://www.google.com"
+    "tittle": "Projeto 1",
+    "imageSrc" : "skills/Java.png",
+    "description": "Um projeto de um sistema educacional para a faculdade feito utilizando java swing para a interface e java para o back-end, e com um banco de dados integrado.",
+    "skills": ["Java", "Java swing", "MySQL"],
+    "demo": "https://github.com/Menon04/Education-App",
+    "source": "https://github.com/Menon04/Education-App"
   },
   {
-    "tittle": "Project 1",
-    "imageSrc" : "projects/project.png",
-    "description": "This is a project description",
+    "tittle": "Projeto 2",
+    "imageSrc" : "skills/JavaScript.png",
+    "description": "Um projeto em JavaScript feito para consumir uma API e aperfeiçoar minhas habilidades com a linguagem, consumo de API e tambem a modulação de código.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.google.com",
-    "source": "https://www.google.com"
+    "demo": "https://menon04.github.io/TeamBuilder-Pokemon/",
+    "source": "https://github.com/Menon04/TeamBuilder-Pokemon"
   },
   {
-    "tittle": "Project 1",
-    "imageSrc" : "projects/project.png",
-    "description": "This is a project description",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.google.com",
-    "source": "https://www.google.com"
+    "tittle": "Projeto 3",
+    "imageSrc" : "skills/React.png",
+    "description": "Um projeto feito ao longo de um curso de react para aprender como fazer o uso certo e limpo da linguagem, que tambem me motivou a fazer esse portifolio.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://github.com/Menon04/Learnig-about-react",
+    "source": "https://github.com/Menon04/Learnig-about-react"
   }
 ]

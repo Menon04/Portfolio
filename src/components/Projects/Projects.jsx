@@ -10,7 +10,7 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   return (
     <section className={styles.container} id="projects">
-      <h2 className={styles.title}>Projetos</h2>
+      <h2 className={styles.title}>Projetos:</h2>
       <Swiper
         effect={"cards"}
         grabCursor={true}

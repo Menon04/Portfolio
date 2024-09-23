@@ -28,6 +28,10 @@
     "imageSrc": "skills/Node.png"
   },
   {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/MongoDB.png"
   },
