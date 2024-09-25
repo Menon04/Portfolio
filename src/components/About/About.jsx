@@ -4,8 +4,8 @@ import styles from "./About.module.css";
 
 const About = () => {
   return (
-    <section className={styles.container}>
-      <h2 className={styles.title}>Sobre mim</h2>
+    <section className={styles.container} id="about">
+      <h2 className={styles.title}>Sobre mim:</h2>
       <div className={styles.content}>
         <img className={styles.aboutImage} src={getImageUrl("myPics/pfp01.png")} alt="" />
         <ul className={styles.aboutItens}>
@@ -13,7 +13,7 @@ const About = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="" />
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor Fullstack</h3>
-              <p>Tenho experiência tanto mexendo no front-end quanto no back-end devido aos projetos pessoais</p>
+              <p>Tenho experiência tanto trabalhando no front-end quanto no back-end devido aos projetos pessoais</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
