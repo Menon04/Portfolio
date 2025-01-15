@@ -1,14 +1,22 @@
 [
   {
     "tittle": "Projeto 1",
-    "imageSrc" : "skills/Java.png",
-    "description": "Um projeto de um sistema educacional para a faculdade feito utilizando java swing para a interface e java para o back-end, e com um banco de dados integrado.",
-    "skills": ["Java", "Java swing", "MySQL"],
-    "demo": "https://github.com/Menon04/Education-App",
-    "source": "https://github.com/Menon04/Education-App"
+    "imageSrc" : "skills/JavaScript.png",
+    "description":"Um projeto de um backend em Node.js onde existem rotas de CRUD para o usuario e rotas que acessam uma API externa que retorna infos da bolsa de valores.",
+    "skills": ["JavaScript", "MUI"],
+    "demo": "https://github.com/Menon04/ChatApp",
+    "source": "https://apiclient-mobile.onrender.com/"
   },
   {
     "tittle": "Projeto 2",
+    "imageSrc" : "skills/JavaScript.png",
+    "description":"Um projeto open source da materia de PIEX da faculdade onde foi feito um site para um asilo onde foi colocado em pratica principalmente as minhas habilidades com o front-end e trabalho em equipe.",
+    "skills": ["Node", "SQlite"],
+    "demo": "https://github.com/Menon04/front--casa-lar-rio-novo/tree/master",
+    "source": "https://front-casa-lar-rio-novo.vercel.app/"
+  },
+  {
+    "tittle": "Projeto 3",
     "imageSrc" : "skills/JavaScript.png",
     "description": "Um projeto em JavaScript feito para consumir uma API e aperfeiçoar minhas habilidades com a linguagem, consumo de API e tambem a modulação de código.",
     "skills": ["HTML", "CSS", "JavaScript"],
@@ -16,7 +24,15 @@
     "source": "https://github.com/Menon04/TeamBuilder-Pokemon"
   },
   {
-    "tittle": "Projeto 3",
+    "tittle": "Projeto 4",
+    "imageSrc" : "skills/Java.png",
+    "description": "Um projeto de um sistema educacional para a faculdade feito utilizando java swing para a interface e java para o back-end, e com um banco de dados integrado.",
+    "skills": ["Java", "Java swing", "MySQL"],
+    "demo": "https://github.com/Menon04/Education-App",
+    "source": "https://github.com/Menon04/Education-App"
+  },
+  {
+    "tittle": "Projeto 5",
     "imageSrc" : "skills/React.png",
     "description": "Um projeto feito ao longo de um curso de react para aprender como fazer o uso certo e limpo da linguagem, que tambem me motivou a fazer esse portifolio.",
     "skills": ["HTML", "CSS", "React"],
